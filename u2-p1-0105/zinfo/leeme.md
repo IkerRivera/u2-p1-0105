@@ -6,3 +6,7 @@
 
 ## ejemplo 2 dimensiones numpy
 ![alt text](image-2.png)
+
+## resultados 
+
+![alt text](image-4.png)
